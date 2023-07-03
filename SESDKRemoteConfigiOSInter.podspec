@@ -19,7 +19,7 @@ Pod::Spec.new do |s|
   s.ios.deployment_target = '11.0'
 
   s.vendored_frameworks = 'SESDKRemoteConfigiOSInter/*.framework'
-  s.dependency 'SolarEngineSDKiOSInter' , '~> 1.2.0.0'
+  s.dependency 'SolarEngineSDKiOSInter' , '~> 1.2.1.0'
 
   s.pod_target_xcconfig = { 'EXCLUDED_ARCHS[sdk=iphonesimulator*]' => 'arm64' }
   s.user_target_xcconfig = { 'EXCLUDED_ARCHS[sdk=iphonesimulator*]' => 'arm64' }
