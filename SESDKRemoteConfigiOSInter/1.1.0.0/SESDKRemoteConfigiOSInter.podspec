@@ -20,7 +20,7 @@ Pod::Spec.new do |s|
 
   s.vendored_frameworks = 'SESDKRemoteConfigiOSInter/SESDKRemoteConfig.framework'
   #s.dependency 'SolarEngineSDKiOSInter' , '~> 1.2.1.0'
-  s.dependency 'SolarEngineSDK' , '~> 1.2.0.0'
+  s.dependency 'SolarEngineSDK' , '~> 1.2.1.0'
 
   s.requires_arc = true
 
