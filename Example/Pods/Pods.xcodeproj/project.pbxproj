@@ -28,19 +28,19 @@
 
 /* Begin PBXFileReference section */
 		0202F561F92E053C73AACCC77E1788A0 /* Pods-SESDKRemoteConfigiOSInter_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-SESDKRemoteConfigiOSInter_Tests.release.xcconfig"; sourceTree = "<group>"; };
-		0290FF8B0FD79F87F3C22A55C05AE676 /* SESDKRemoteConfigiOSInter.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; lastKnownFileType = text; path = SESDKRemoteConfigiOSInter.podspec; sourceTree = "<group>"; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		0290FF8B0FD79F87F3C22A55C05AE676 /* SESDKRemoteConfigiOSInter.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; path = SESDKRemoteConfigiOSInter.podspec; sourceTree = "<group>"; tabWidth = 2; };
 		02E9734087F58CA1C4F61CC8F351DFE1 /* Pods-SESDKRemoteConfigiOSInter_Tests */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = "Pods-SESDKRemoteConfigiOSInter_Tests"; path = Pods_SESDKRemoteConfigiOSInter_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		3794DA9EB7E73F672DBF1D19CE3A7567 /* Pods-SESDKRemoteConfigiOSInter_Tests-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-SESDKRemoteConfigiOSInter_Tests-umbrella.h"; sourceTree = "<group>"; };
-		51CD5961B3E0C56B4BCF5BF13D61A4FC /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; path = LICENSE; sourceTree = "<group>"; };
+		51CD5961B3E0C56B4BCF5BF13D61A4FC /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = LICENSE; sourceTree = "<group>"; };
 		57048B33F4C632B1EAD6CD44CBF79815 /* SESDKRemoteConfigiOSInter-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "SESDKRemoteConfigiOSInter-umbrella.h"; sourceTree = "<group>"; };
 		61FC519C3B85C726D49D0B75A841A0F0 /* Pods-SESDKRemoteConfigiOSInter_Tests-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-SESDKRemoteConfigiOSInter_Tests-frameworks.sh"; sourceTree = "<group>"; };
 		6D293408DB7E1A3C0E4CE69ADDAC5E76 /* Pods-SESDKRemoteConfigiOSInter_Tests-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-SESDKRemoteConfigiOSInter_Tests-acknowledgements.markdown"; sourceTree = "<group>"; };
 		73010CC983E3809BECEE5348DA1BB8C6 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS14.0.sdk/System/Library/Frameworks/Foundation.framework; sourceTree = DEVELOPER_DIR; };
 		8319EB659D65112D659A202DCF98AAA6 /* SESDKRemoteConfigiOSInter.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = SESDKRemoteConfigiOSInter.debug.xcconfig; sourceTree = "<group>"; };
-		8A32B562CD8E1EEF959656FBE848421E /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; path = README.md; sourceTree = "<group>"; };
+		8A32B562CD8E1EEF959656FBE848421E /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		8B9A522A66499E089698AC6EDB272286 /* Pods-SESDKRemoteConfigiOSInter_Tests.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = "Pods-SESDKRemoteConfigiOSInter_Tests.modulemap"; sourceTree = "<group>"; };
 		97FA2862099027B517EFDEA6FCF9B296 /* SESDKRemoteConfigiOSInter-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "SESDKRemoteConfigiOSInter-Info.plist"; sourceTree = "<group>"; };
-		9D940727FF8FB9C785EB98E56350EF41 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; lastKnownFileType = text; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		9D940727FF8FB9C785EB98E56350EF41 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		9DE6FB8976A5A00546DA686219747D6F /* SESDKRemoteConfigiOSInter-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "SESDKRemoteConfigiOSInter-dummy.m"; sourceTree = "<group>"; };
 		9FB4FA804D14ECCEDD3DF0FADF4A58B1 /* ReplaceMe.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = ReplaceMe.m; path = SESDKRemoteConfigiOSInter/Classes/ReplaceMe.m; sourceTree = "<group>"; };
 		A046FDD7A064DD9E19BCB10AEAA35BC5 /* Pods-SESDKRemoteConfigiOSInter_Tests-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-SESDKRemoteConfigiOSInter_Tests-Info.plist"; sourceTree = "<group>"; };
@@ -466,8 +466,7 @@
 				MTL_FAST_MATH = YES;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				STRIP_INSTALLED_PRODUCT = NO;
-				SWIFT_COMPILATION_MODE = wholemodule;
-				SWIFT_OPTIMIZATION_LEVEL = "-O";
+				SWIFT_OPTIMIZATION_LEVEL = "-Owholemodule";
 				SWIFT_VERSION = 5.0;
 				SYMROOT = "${SRCROOT}/../build";
 			};
