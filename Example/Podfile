@@ -1,6 +1,6 @@
 use_frameworks!
 target 'SESDKRemoteConfigiOSInter_Tests' do
-  pod 'SESDKRemoteConfigiOSInter', :path => '../'
+  pod 'SESDKRemoteConfigiOSInter', :path => '../SESDKRemoteConfigiOSInter.podspec'
   
   
 end

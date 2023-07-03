@@ -1,0 +1,6 @@
+framework module SESDKRemoteConfigiOSInter {
+  umbrella header "SESDKRemoteConfigiOSInter-umbrella.h"
+
+  export *
+  module * { export * }
+}

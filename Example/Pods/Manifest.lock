@@ -1,0 +1,16 @@
+PODS:
+  - SESDKRemoteConfigiOSInter (0.1.0)
+
+DEPENDENCIES:
+  - SESDKRemoteConfigiOSInter (from `../SESDKRemoteConfigiOSInter.podspec`)
+
+EXTERNAL SOURCES:
+  SESDKRemoteConfigiOSInter:
+    :path: "../SESDKRemoteConfigiOSInter.podspec"
+
+SPEC CHECKSUMS:
+  SESDKRemoteConfigiOSInter: b7bb19f106a257d0e8cb06a3f1f7a69ce5338ed1
+
+PODFILE CHECKSUM: 336ede295525ef170b1d168da0a99fd9b4518b97
+
+COCOAPODS: 1.12.1
